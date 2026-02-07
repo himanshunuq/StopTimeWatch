@@ -61,7 +61,7 @@ const useRefToutorial = () => {
           <Text>Reset</Text>
         </TouchableOpacity>
       </View>
-      <View style={{ marginTop: 10, backgroundColor: '#e45c5c' }}>
+      <View style={{ marginTop: 10, backgroundColor: '#4887de' }}>
         <TextInput
           placeholder="Enter Your name please"
           placeholderTextColor={'white'}
